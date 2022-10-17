@@ -22,12 +22,12 @@ I'm learning coding at the moment to create my own projects and code, but I'm pr
 - [x] Step 2: Download the source code. (You can do this by simply clicking on the green/blue "Code" button and then the "Downlaod ZIP" button.) After that you should extract the file you just downloaded. Now you have to open a file called "hazard-v3.py" with any code editor. 
 
 
-- Step 2 help  I would recommend you Visual Studio Code. [You can download it here!](https://code.visualstudio.com/)
+- _Step 2 help > I would recommend you Visual Studio Code._ [You can download it here!](https://code.visualstudio.com/)
 
 
 - [x] Step 3: Just put your webhook in line 29 where the code says "WEBHOOK_HERE". Simply replace the webhook here with your webhook. 
 
-- Step 3 help > You need help with creating a webhook?? [Here is a simple tutorial!](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
+- _Step 3 help > You need help with creating a webhook??_ [Here is a simple tutorial!](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
 
 
 - [x] (Step 4:) You can also change the settings from line 30 to 37. (optional) True is enabling the setting, false is disbaling a setting. Easy!`
