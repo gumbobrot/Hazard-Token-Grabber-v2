@@ -41,3 +41,5 @@ DunklerYeti#9368
 *Thanks to everyone who read this ↑↑*
 
 _**Credits to rdmo1 and the real Rdimo!!!**_
+
+I'm learning coding at the moment to create my own projects and code, but I'm pretty young and broke, so please don't flame me 😅
