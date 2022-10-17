@@ -30,7 +30,6 @@ I'm learning coding at the moment to create my own projects and code, but I'm pr
 
 - _Step 3 help > You need help with creating a webhook??_ [Here is a simple tutorial!](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
 
-
 - [x] (Step 4:) You can also change the settings from line 30 to 37. (optional) True is enabling the setting, false is disbaling a setting. Easy!`
 
 - [x] Step 5: How do I compile this shit now? That's pretty easy! Just run this command after you opened a command prompt in the Hazard-Grabber Directory and run this command: "pyinstaller hazard-v3.py --onefile". Now wait for it to compile the file.
