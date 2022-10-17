@@ -3,12 +3,14 @@
 NOT MY WORK (SKIDDED)
 
 
+
 Hello! I am pretty new on Github! Some days ago I found my old Hazard-Grabber directory and the repost with some changes from someone else. Enjoy this small remake.
 
 
 As I said I'm new, but I will try my best <3
 And yes, if you wanna call me that, you can call me a skid. That the only thing I can do at the moment, but I'm trying to create my own projects. 
 So don't worry, I'm not just a skid - I try my best!
+
 
 
 Tutorial for starters (like me..) ↓↓
