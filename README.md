@@ -19,7 +19,7 @@ I'm learning coding at the moment to create my own projects and code, but I'm pr
 
 - Step 1: Install python and make sure to add it to path. ![0_7nOyowsPsGI19pZT](https://user-images.githubusercontent.com/96620548/196215300-4d5ecf4a-7f7b-4c4b-9466-2b630873125e.png)
 
-- Step 2: Download the source code. (You can do this by simply clicking on the green/blue "Code" button and then the "Downlaod ZIP" button.) After that you should extract the file you just downloaded. Now you have to open a file called "hazard-v3.py" with any code editor. 
+- [x] Step 2: Download the source code. (You can do this by simply clicking on the green/blue "Code" button and then the "Downlaod ZIP" button.) After that you should extract the file you just downloaded. Now you have to open a file called "hazard-v3.py" with any code editor. 
 
 
 _Step 2 help_ > I would recommend you Visual Studio Code. [You can download it here!](https://code.visualstudio.com/)
