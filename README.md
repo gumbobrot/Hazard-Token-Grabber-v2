@@ -22,7 +22,7 @@ I'm learning coding at the moment to create my own projects and code, but I'm pr
 - Step 2: Download the source code. (You can do this by simply clicking on the green/blue "Code" button and then the "Downlaod ZIP" button.) After that you should extract the file you just downloaded. Now you have to open a file called "hazard-v3.py" with any code editor. 
 
 
-_Step 2 help_ > I would recommend you Visual Studio Code. [You can download it here!](https://code.visualstudio.com/)
+`_Step 2 help_ > I would recommend you Visual Studio Code. [You can download it here!](https://code.visualstudio.com/)`
 
 
 - Step 3: Just put your webhook in line 29 where the code says "WEBHOOK_HERE". Simply replace the webhook here with your webhook. 
