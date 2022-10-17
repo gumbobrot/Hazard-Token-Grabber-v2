@@ -4,7 +4,7 @@
 
 
 
-Hello! I am pretty new on Github! Some days ago I found my old Hazard-Grabber directory and the repost with some changes from someone else. Enjoy this small remake.
+Hello! I am pretty new on Github! Some days ago I found my old Hazard-Grabber directory and a repost with some changes from someone else. Enjoy this small remake.
 
 
 As I said I'm new, but I will try my best <3
