@@ -15,7 +15,7 @@ And yes, if you wanna call me that, you can call me a skid. That is the only thi
 I'm learning coding at the moment to create my own projects and code, but I'm pretty young and broke, so please don't flame me :)
 
 ---------------------------------------------------------------------------------------------------
-**Tutorial for starters (like me..) ↓↓**
+💉 **Tutorial for starters (like me..) ↓↓**
 
 - [x] Step 1: Install python and make sure to add it to path. ![0_7nOyowsPsGI19pZT](https://user-images.githubusercontent.com/96620548/196215300-4d5ecf4a-7f7b-4c4b-9466-2b630873125e.png)
 
@@ -39,7 +39,7 @@ I'm learning coding at the moment to create my own projects and code, but I'm pr
 - [x] Step 7: Send the created .exe to your friends to troll them or grab your enemys!!
 
 ---------------------------------------------------------------------------------------------------
-**If you have any other improvement ideas or questions, just ask me on Discord or join our server!**
+📝**If you have any other improvement ideas or questions, just ask me on Discord or join our server!**
 
 
 - DunklerYeti#9368
@@ -47,4 +47,4 @@ I'm learning coding at the moment to create my own projects and code, but I'm pr
 
 - [Our Discord here!](https://discord.gg/s3RVzKjteg)                                                                                                                                                                      
 ---------------------------------------------------------------------------------------------------
-*Thanks to everyone who took the time to read through this slightly longer tutorial! ↑↑*
+⏳ *Thanks to everyone who took the time to read through this slightly longer tutorial! ↑↑*
