@@ -43,7 +43,7 @@ I'm learning coding at the moment to create my own projects as I mentioned befor
 - [x] Step 8: Send the created .exe to your friends to troll them or grab your enemys!!
 
 ---------------------------------------------------------------------------------------------------
-📷 **Here is a screenshots of the grabber!**
+📷 Here is a screenshots of the grabber!
 ![hazard-v 3 (1)](https://user-images.githubusercontent.com/96620548/196254919-67e4b5da-be3d-4931-8fa1-6f1be35c95ab.png)
 ---------------------------------------------------------------------------------------------------
 ### 🎈 Hazard-Grabber is a popular Stealer with many features.
