@@ -3,7 +3,7 @@
 > NOT MY WORK (SKIDDED) 
 > ⚠ _**Credits to Rdimo!!!**_ ⚠ 
 
-
+---------------------------------------------------------------------------------------------------
 
 Hello! I am pretty new on Github! Some days ago I found my old Hazard-Grabber directory and a repost with some changes from someone else. Enjoy this small remake.
 
@@ -15,7 +15,7 @@ So don't worry, I'm not just a skid - I try my best!
 
 I'm learning coding at the moment to create my own projects and code, but I'm pretty young and broke, so please don't flame me 😅
 
-
+---------------------------------------------------------------------------------------------------
 **Tutorial for starters (like me..) ↓↓**
 
 - Step 1: Install python and make sure to add it to path. ![0_7nOyowsPsGI19pZT](https://user-images.githubusercontent.com/96620548/196215300-4d5ecf4a-7f7b-4c4b-9466-2b630873125e.png)
@@ -38,19 +38,13 @@ _Step 3 help_ > You need help with creating a webhook?? [Here is a simple tutori
 
 - Step 7: Send the created .exe to your friends to troll them or grab your enemys!!
 
-
-
+---------------------------------------------------------------------------------------------------
 > If you have any other improvement ideas or questions, just ask me on Discord or join our server! 
 
 
 > DunklerYeti#9368
 
 
-> [Our Discord here!](https://discord.gg/s3RVzKjteg)
-
-
-
-
-                                                                                                                                                                       
-
+> [Our Discord here!](https://discord.gg/s3RVzKjteg)                                                                                                                                                                      
+---------------------------------------------------------------------------------------------------
 *Thanks to everyone who took the time to read through this slightly longer tutorial! ↑↑*
