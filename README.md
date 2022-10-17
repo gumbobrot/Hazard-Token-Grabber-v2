@@ -39,7 +39,7 @@ I'm learning coding at the moment to create my own projects and code, but I'm pr
 - [x] Step 7: Send the created .exe to your friends to troll them or grab your enemys!!
 
 ---------------------------------------------------------------------------------------------------
-> If you have any other improvement ideas or questions, just ask me on Discord or join our server! 
+**If you have any other improvement ideas or questions, just ask me on Discord or join our server!**
 
 
 - DunklerYeti#9368
