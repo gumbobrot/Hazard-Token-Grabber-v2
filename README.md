@@ -1,4 +1,5 @@
 ☣ Hazard-Token-Grabber-v4 ☣
+
 NOT MY WORK (SKIDDED)
 
 
@@ -11,6 +12,7 @@ So don't worry, I'm not just a skid - I try my best!
 
 
 Tutorial for starters (like me..) ↓↓
+
 Step 1: Install python and make sure to add it to path. 
 
 Step 2: So, how do you use this now? Enter the file named "hazard.py" with a code editor. I would recommend you Visual Studio Code. (https://code.visualstudio.com/)
