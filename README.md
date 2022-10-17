@@ -1,6 +1,7 @@
 ### ☣ Hazard-Token-Grabber-v3 ☣
 
-> NOT MY WORK (SKIDDED)
+> NOT MY WORK (SKIDDED) 
+> ⚠ _**Credits to Rdimo!!!**_ ⚠ 
 
 
 
@@ -53,5 +54,3 @@ _Step 3 help_ > You need help with creating a webhook?? [Here is a simple tutori
                                                                                                                                                                        
 
 *Thanks to everyone who took the time to read through this slightly longer tutorial! ↑↑*
-
-⚠ _**Credits to Rdimo!!!**_ ⚠ 
