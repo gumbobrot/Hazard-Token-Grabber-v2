@@ -15,7 +15,7 @@ So don't worry, I'm not just a skid - I try my best!
 
 **Tutorial for starters (like me..) ↓↓**
 
-`Step 1: Install python and make sure to add it to path. ![0_7nOyowsPsGI19pZT](https://user-images.githubusercontent.com/96620548/196215300-4d5ecf4a-7f7b-4c4b-9466-2b630873125e.png)`
+`Step 1: Install python and make sure to add it to path.` ![0_7nOyowsPsGI19pZT](https://user-images.githubusercontent.com/96620548/196215300-4d5ecf4a-7f7b-4c4b-9466-2b630873125e.png)
 
 `Step 2: So, how do you use this now? Enter the file named "hazard.py" with a code editor. I would recommend you Visual Studio Code. (https://code.visualstudio.com/)`
 
