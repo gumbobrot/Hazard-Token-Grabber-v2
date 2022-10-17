@@ -50,6 +50,8 @@ _Step 3 help_ > You need help with creating a webhook?? [Here is a simple tutori
 
 
 
-*Thanks to everyone who read this ↑↑*
+                                                                                                                                                                       
+
+*Thanks to everyone who took the time to read through this slightly longer tutorial! ↑↑*
 
 _**Credits to rdmo1 and the real Rdimo!!!**_
