@@ -27,7 +27,7 @@ I'm learning coding at the moment to create my own projects and code, but I'm pr
 
 - [x] Step 3: Just put your webhook in line 29 where the code says "WEBHOOK_HERE". Simply replace the webhook here with your webhook. 
 
-- _Step 3 help_ > You need help with creating a webhook?? [Here is a simple tutorial!](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
+- Step 3 help > You need help with creating a webhook?? [Here is a simple tutorial!](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
 
 
 - [x] (Step 4:) You can also change the settings from line 30 to 37. (optional) True is enabling the setting, false is disbaling a setting. Easy!`
