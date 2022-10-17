@@ -13,7 +13,6 @@ So don't worry, I'm not just a skid - I try my best!
 
 
 
-
 Tutorial for starters (like me..) ↓↓
 
 Step 1: Install python and make sure to add it to path. 
@@ -29,6 +28,7 @@ Step 5: How do I compile this shit now? That's pretty easy! Just run this comman
 (Step 6:) Change the ICON. I don't know good programs for this at the moment. I will try to add this soon. If you know how to do this, let me know under the "Issues" ➤➤  "Suggestions" Tab.
 
 Step 7: Send the created .exe to your friends to troll them!
+
 
 
 
