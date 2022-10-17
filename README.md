@@ -36,6 +36,6 @@ So don't worry, I'm not just a skid - I try my best!
 
 
 
-*Thanks to everyone who read this ↑↑**
+*Thanks to everyone who read this ↑↑*
 
 _**Credits to rdmo1 and the real rdimo!!!**_
