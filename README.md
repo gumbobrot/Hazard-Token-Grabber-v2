@@ -15,9 +15,9 @@ So don't worry, I'm not just a skid - I try my best!
 
 **Tutorial for starters (like me..) ↓↓**
 
-`Step 1: Install python and make sure to add it to path.` ![0_7nOyowsPsGI19pZT](https://user-images.githubusercontent.com/96620548/196215300-4d5ecf4a-7f7b-4c4b-9466-2b630873125e.png)
+- Step 1: Install python and make sure to add it to path.` ![0_7nOyowsPsGI19pZT](https://user-images.githubusercontent.com/96620548/196215300-4d5ecf4a-7f7b-4c4b-9466-2b630873125e.png)
 
-`Step 2: Enter the file named "hazard-v4.py" with any code editor. I would recommend you Visual Studio Code. (https://code.visualstudio.com/)`
+- Step 2: Enter the file named "hazard-v4.py" with any code editor. I would recommend you Visual Studio Code. (https://code.visualstudio.com/)`
 
 `Step 3: Just put your webhook in line 29 where the code says "WEBHOOK HERE". Simply replace the webhook here with your webhook. You don't know how to create a webhook and copy it's URL? https://www.integromat.com/en/blog/guide-to-discord-webhooks (only the first few steps under "How to create Discord webhooks?" are important.)`
 
