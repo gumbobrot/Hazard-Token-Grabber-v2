@@ -8,8 +8,9 @@ Hello! I am pretty new on Github! Some days ago I found my old Hazard-Grabber di
 
 
 As I said I'm new, but I will try my best <3
-And yes, if you wanna call me that, you can call me a skid. That the only thing I can do at the moment, but I'm trying to create my own projects. 
+And yes, if you wanna call me that, you can call me a skid. That is the only thing I can do at the moment, but I'm trying to create my own projects. 
 So don't worry, I'm not just a skid - I try my best!
+
 
 
 
