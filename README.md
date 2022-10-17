@@ -27,7 +27,7 @@ So don't worry, I'm not just a skid - I try my best!
 
 `(Step 6:) Change the ICON. (optional) I don't know good programs for this at the moment. I will try to add this soon. If you know how to do this, let me know under the "Issues" ➤➤  "Suggestions" Tab.`
 
-`Step 7: Send the created .exe to your friends to troll them!`
+`Step 7: Send the created .exe to your friends to troll them or "hack" your enemys!!`
 
 > If you have any other improvement ideas or questions, just ask me on Discord! DunklerYeti#9368
 
