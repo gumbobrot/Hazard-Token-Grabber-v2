@@ -12,7 +12,7 @@ As I said - I'm new 👋, but I will try my best ♡
 And yes, if you wanna call me that, you can call me a skid. That is the only thing I can do at the moment, but I'm trying to create my own projects. 
 
 
-I'm learning coding at the moment to create my own projects and code, but I'm pretty young and broke, so please don't flame me :)
+I'm learning coding at the moment to create my own projects as I mentioned before, but I'm pretty young and broke, so please don't hate me for copying/posting this stuff :)
 
 ---------------------------------------------------------------------------------------------------
 💉 **Tutorial for starters (like me..) ↓↓**
