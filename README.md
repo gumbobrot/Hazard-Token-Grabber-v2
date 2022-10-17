@@ -19,7 +19,7 @@ So don't worry, I'm not just a skid - I try my best!
 
 - Step 2: Enter the file named "hazard-v3.py" with any code editor. I would recommend you Visual Studio Code. (https://code.visualstudio.com/)
 
-- Step 3: Just put your webhook in line 29 where the code says "WEBHOOK HERE". Simply replace the webhook here with your webhook. You don't know how to create a webhook and copy it's URL? https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
+- Step 3: Just put your webhook in line 29 where the code says "YOUR_WEBHOOK_HERE". Simply replace the webhook here with your webhook. You don't know how to create a webhook and copy it's URL? https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
 
 - (Step 4:) You can also change the settings from line 30 to 37. (optional) True is enabling the setting, false is disbaling a setting. Easy!`
 
