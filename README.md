@@ -25,6 +25,7 @@ _Step 2 help_ > I would recommend you Visual Studio Code. [You can download it h
 
 
 - Step 3: Just put your webhook in line 29 where the code says "WEBHOOK_HERE". Simply replace the webhook here with your webhook. 
+
 _Step 3 help_ > You need help with creating a webhook?? [Here is a simple tutorial!](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
 
 
