@@ -29,9 +29,7 @@ So don't worry, I'm not just a skid - I try my best!
 
 `Step 7: Send the created .exe to your friends to troll them!`
 
-> If you have any other improvement ideas or questions, just ask me on Discord! 
-
-> DunklerYeti#9368
+> If you have any other improvement ideas or questions, just ask me on Discord! DunklerYeti#9368
 
 
 **Thanks to everyone who read this ↑↑**
