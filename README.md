@@ -15,7 +15,7 @@ So don't worry, I'm not just a skid - I try my best!
 
 **Tutorial for starters (like me..) ↓↓**
 
-_Step 1: Install python and make sure to add it to path. ![0_7nOyowsPsGI19pZT](https://user-images.githubusercontent.com/96620548/196215300-4d5ecf4a-7f7b-4c4b-9466-2b630873125e.png)
+`Step 1: Install python and make sure to add it to path. ![0_7nOyowsPsGI19pZT](https://user-images.githubusercontent.com/96620548/196215300-4d5ecf4a-7f7b-4c4b-9466-2b630873125e.png)
 
 Step 2: So, how do you use this now? Enter the file named "hazard.py" with a code editor. I would recommend you Visual Studio Code. (https://code.visualstudio.com/)
 
@@ -27,7 +27,7 @@ Step 5: How do I compile this shit now? That's pretty easy! Just run this comman
 
 (Step 6:) Change the ICON. I don't know good programs for this at the moment. I will try to add this soon. If you know how to do this, let me know under the "Issues" ➤➤  "Suggestions" Tab.
 
-Step 7: Send the created .exe to your friends to troll them!_
+Step 7: Send the created .exe to your friends to troll them!`
 
 
 
