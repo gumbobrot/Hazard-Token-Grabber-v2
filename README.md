@@ -8,7 +8,7 @@
 Hello! I'm pretty new on Github! Some days ago I found my old Hazard-Grabber directory and a repost with some changes from someone else. Enjoy this small remake.
 
 
-As I said I'm new, but I will try my best <3
+As I said - I'm new 👋, but I will try my best ♡
 And yes, if you wanna call me that, you can call me a skid. That is the only thing I can do at the moment, but I'm trying to create my own projects. 
 
 
