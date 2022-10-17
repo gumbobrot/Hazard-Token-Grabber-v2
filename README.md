@@ -1,6 +1,6 @@
 ☣ Hazard-Token-Grabber-v4 ☣
 
-NOT MY WORK (SKIDDED)
+> NOT MY WORK (SKIDDED)
 
 
 
@@ -34,4 +34,4 @@ So don't worry, I'm not just a skid - I try my best!
 
 **Thanks to everyone who read this ↑↑**
 
-_Credits to rdmo1 and the real rdimo!!!**_
+_**Credits to rdmo1 and the real rdimo!!!**_
