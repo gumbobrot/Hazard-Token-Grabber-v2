@@ -13,7 +13,7 @@ So don't worry, I'm not just a skid - I try my best!
 
 
 
-Tutorial for starters (like me..) ↓↓
+**Tutorial for starters (like me..) ↓↓**
 
 Step 1: Install python and make sure to add it to path. 
 
