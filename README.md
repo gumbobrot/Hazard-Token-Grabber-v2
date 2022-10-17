@@ -12,17 +12,19 @@ And yes, if you wanna call me that, you can call me a skid. That is the only thi
 So don't worry, I'm not just a skid - I try my best!
 
 
+I'm learning coding at the moment to create my own projects and code, but I'm pretty young and broke, so please don't flame me 😅
+
 
 **Tutorial for starters (like me..) ↓↓**
 
 - Step 1: Install python and make sure to add it to path. ![0_7nOyowsPsGI19pZT](https://user-images.githubusercontent.com/96620548/196215300-4d5ecf4a-7f7b-4c4b-9466-2b630873125e.png)
 
 - Step 2: Enter the file named "hazard-v3.py" with any code editor. 
- > I would recommend you Visual Studio Code. [You can download it here!](https://code.visualstudio.com/)
+_step2 help_ > I would recommend you Visual Studio Code. [You can download it here!](https://code.visualstudio.com/)
 
 
 - Step 3: Just put your webhook in line 29 where the code says "WEBHOOK_HERE". Simply replace the webhook here with your webhook. 
- > You don't know how to create a webhook and copy it's URL? [Here is a simple tutorial!](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
+_step3 help_ > You don't know how to create a webhook and copy it's URL? [Here is a simple tutorial!](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
 
 
 - (Step 4:) You can also change the settings from line 30 to 37. (optional) True is enabling the setting, false is disbaling a setting. Easy!`
@@ -49,5 +51,3 @@ So don't worry, I'm not just a skid - I try my best!
 *Thanks to everyone who read this ↑↑*
 
 _**Credits to rdmo1 and the real Rdimo!!!**_
-
-I'm learning coding at the moment to create my own projects and code, but I'm pretty young and broke, so please don't flame me 😅
