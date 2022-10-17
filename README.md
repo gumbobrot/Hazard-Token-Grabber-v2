@@ -31,7 +31,9 @@ So don't worry, I'm not just a skid - I try my best!
 
 
 
-> If you have any other improvement ideas or questions, just ask me on Discord! DunklerYeti#9368
+> If you have any other improvement ideas or questions, just ask me on Discord or join our server! 
+DunklerYeti#9368
+[https://discord.gg/GhSBxykm3j](https://discord.gg/GhSBxykm3j)
 
 
 
