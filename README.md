@@ -21,7 +21,6 @@ I'm learning coding at the moment to create my own projects and code, but I'm pr
 
 - Step 2: Enter the file named "hazard-v3.py" with any code editor. 
 
-
 _Step 2 help_ > I would recommend you Visual Studio Code. [You can download it here!](https://code.visualstudio.com/)
 
 
