@@ -18,7 +18,7 @@ I'm learning coding at the moment to create my own projects as I mentioned befor
 
 ### You would make me really happy if you ⭐ this repository if you like it!
 ---------------------------------------------------------------------------------------------------
-💉 **Tutorial for starters (like me..) ↓↓**
+### 💉 **Installation and use**
 
 - [x] Step 1: Install python and make sure to add it to PATH.
 
@@ -71,7 +71,7 @@ I'm learning coding at the moment to create my own projects as I mentioned befor
 - Discord Injection 
 > (Auto-Update. If the infected User changes his password, email or phone it will be displayed through the webhook to you.)
 ---------------------------------------------------------------------------------------------------
-📝 **If you have any other improvement ideas or questions, just ask me on Discord or join our server!**
+### 📝 **If you have any other improvement ideas or questions, just ask me on Discord or join our server!**
 
 
 - schwungvoll#9368
