@@ -1,6 +1,6 @@
 ### ☣ Hazard-Token-Grabber-v3 ☣
 
-> NOT MY WORK (SKIDDED) 
+> NOT MY WORK, IT'S FROM SOMEONE ELSE, I JUST REPOST IT 
 
 > ⚠ _**Credits to Rdimo!!!**_ ⚠ 
 ![hazard-low-resolution-color-logo](https://user-images.githubusercontent.com/96620548/196325744-949d9245-df9f-45d4-b582-768d81522b53.png)
