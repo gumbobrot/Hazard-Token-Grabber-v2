@@ -3,10 +3,11 @@
 > NOT MY WORK (SKIDDED) 
 
 > ⚠ _**Credits to Rdimo!!!**_ ⚠ 
+![hazard-low-resolution-color-logo](https://user-images.githubusercontent.com/96620548/196325744-949d9245-df9f-45d4-b582-768d81522b53.png)
 
 ---------------------------------------------------------------------------------------------------
 
-Hello! I'm pretty new on Github! Some days ago I found my old Hazard-Grabber directory and a repost with some changes from someone else. Enjoy this small remake.
+Hello! I'm pretty new on Github! Some days ago I found my old Hazard-Grabber directory and a repost with some changes from someone else. Enjoy this small repost with a hopefully easy tutorial.
 
 
 As I said - I'm new 👋, but I will try my best ♡
@@ -51,12 +52,23 @@ I'm learning coding at the moment to create my own projects as I mentioned befor
 ![hazard-v 3 (1)](https://user-images.githubusercontent.com/96620548/196254919-67e4b5da-be3d-4931-8fa1-6f1be35c95ab.png)
 ---------------------------------------------------------------------------------------------------
 ### 🎈 Hazard-Grabber is a popular Stealer with many features.
-- Manipulating code and more (If you don't like a feature, you can easily turn it off and change the code to whatever you want.)
-- Hide it-self (This feature, hides logs and more, so the infected person won't really know that he or she just got logged.)
-- start-up injection (If the infected User starts his PC, this feature will re-run the Trojan so you can get all his or her Passwords, Cookies and more again.)
-- password-logger (Logs all Google Chrome Passwords.This feature also supports some other browsers like Opera GX, Brave and others.)
-- cookie-logger (Logs all Google Chrome Cookies. This feature also supports some other browsers like Opera GX, Brave and others.)
-- injection (Auto-Update. If the infected User changes his password, email or phone it will be displayed through the webhook to you.)
+- Manipulating code and more 
+> (If you don't like a feature, you can easily turn it off and change the code to whatever you want.)
+
+- Hide it-self 
+> (This feature, hides logs and more, so the infected person doesn't really know that he or she just got logged.)
+
+- Start-Up injection 
+> (If the infected User starts his PC, this feature will re-run the Trojan so you can get all his or her Passwords, Cookies and more again.)
+
+- Password-Logger 
+> (Logs all Google Chrome Passwords.This feature also supports some other browsers like Opera GX, Brave and others.)
+
+- Cookie-Logger 
+> (Logs all Google Chrome Cookies. This feature also supports some other browsers like Opera GX, Brave and others.)
+
+- Discord Injection 
+> (Auto-Update. If the infected User changes his password, email or phone it will be displayed through the webhook to you.)
 ---------------------------------------------------------------------------------------------------
 📝 **If you have any other improvement ideas or questions, just ask me on Discord or join our server!**
 
