@@ -6,7 +6,6 @@
 ![hazard-low-resolution-color-logo](https://user-images.githubusercontent.com/96620548/196325744-949d9245-df9f-45d4-b582-768d81522b53.png)
 
 ---------------------------------------------------------------------------------------------------
-
 Hello! I'm pretty new on Github! Some days ago I found my old Hazard-Grabber directory and a repost with some changes from someone else. Enjoy this small repost with a hopefully easy tutorial.
 
 
@@ -16,6 +15,8 @@ And yes, if you wanna call me that, you can call me a skid. That is the only thi
 
 I'm learning coding at the moment to create my own projects as I mentioned before, but I'm pretty young and broke, so please don't hate me for copying/posting this stuff :)
 
+
+### You would make me really happy if you ⭐ this repository if you like it!
 ---------------------------------------------------------------------------------------------------
 💉 **Tutorial for starters (like me..) ↓↓**
 
