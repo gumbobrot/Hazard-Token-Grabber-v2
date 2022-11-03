@@ -5,8 +5,7 @@
 > NOT MY WORK, IT'S FROM SOMEONE ELSE, I JUST REPOST IT 
 
 > ⚠ _**Credits to Rdimo!!!**_ ⚠ 
-![hazard-low-resolution-color-logo](https://user-images.githubusercontent.com/96620548/196325744-949d9245-df9f-45d4-b582-768d81522b53.png)
-
+![hazard-grabber](https://user-images.githubusercontent.com/96620548/199788080-2eaf09e2-de07-423e-86b9-7980c7165c01.png)
 ---------------------------------------------------------------------------------------------------
 Hello! I'm pretty new on Github! Some days ago I found my old Hazard-Grabber directory and a repost with some changes from someone else. Enjoy this small repost with a hopefully easy tutorial.
 
@@ -44,7 +43,7 @@ I'm learning coding at the moment to create my own projects as I mentioned befor
 
 - [x] Step 5: (optional) You can also change the settings from line 30 to 37. True is enabling the setting, false is disbaling a setting. Easy!
 
-- [x] Step 6: How do I compile this shit now? That's pretty easy! Just run this command after you opened a command prompt in the Hazard-Grabber Directory and run this command: "pyinstaller hazard-v3.py --onefile". Now wait for it to compile the file.
+- [x] Step 6: How do I compile this shit now? That's pretty easy! Just run this command after you opened a command prompt in the Hazard-Grabber Directory and run this command: "pyinstaller hazard.py --onefile". Now wait for it to compile the file. It was mainly made as a hidden script that can be implemented to programs, so you can skip this step if you want and just obfuscate the file. I would recommend you [Blanks Obfuscator](https://github.com/Blank-c/BlankOBF) or [addidix Obfuscator](https://github.com/addi00000/pycloak).
 
 - [x] Step 7: (optional) Change the Icon. I don't know good programs for this at the moment. I will try to add this soon. If you know how to do this, let me know under the "Issues" ➤➤  "Suggestions" Tab.
 
