@@ -9,19 +9,22 @@
     <br>
     <img src="https://img.shields.io/github/issues/zappelig/Hazard-Token-Grabber-v2?color=%23000000&logoColor=%23000000">
     <img src="https://img.shields.io/github/issues-closed/zappelig/Hazard-Token-Grabber-v2?color=%23000000&logoColor=%23000000">
-</div>
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
 
 
 ### THIS PROJECT WAS CREATED FOR GOOD TESTING PURPOSES!!! IT IS NONE OF MY BUSINESS WHAT YOU DO WITH IT, I CANNOT BE LIABLE AND BY USING THIS PORGRAM YOU AGREE TO THIS!! 
 
-<div align="center"> > NOT MY WORK, IT'S FROM SOMEONE ELSE, I JUST REPOST IT <
+➼ NOT MY WORK, IT'S FROM SOMEONE ELSE, I JUST REPOST IT
 
-<div align="center"> > ⚠ Credits to Rdimo ⚠ <
+➼ ⚠ Credits to Rdimo ⚠
+
+</div>
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
 ![hazard-grabber](https://user-images.githubusercontent.com/96620548/199788080-2eaf09e2-de07-423e-86b9-7980c7165c01.png)
 ---------------------------------------------------------------------------------------------------
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+
 Hello! I'm pretty new on Github! Some days ago I found my old Hazard-Grabber directory and a repost with some changes from someone else. Enjoy this small repost with a hopefully easy tutorial.
 
 
@@ -34,7 +37,12 @@ I'm learning coding at the moment to create my own projects as I mentioned befor
 
 ### You would make me really happy if you ⭐ this repository if you like it!
 ---------------------------------------------------------------------------------------------------
+<div align="center">
+
 ### 💉 **Installation and use**
+
+</div>
+
 
 - [x] Step 1: Install python and make sure to add it to PATH.
 
@@ -65,10 +73,22 @@ I'm learning coding at the moment to create my own projects as I mentioned befor
 - [x] Step 8: Send the created .exe to your friends to troll them or grab your enemys!!
 
 ---------------------------------------------------------------------------------------------------
-📷 Here is a screenshots of the grabber!
+<div align="center">
+
+### 📷 **Screenshots**
+
+</div>
+
 ![hazard-grabber](https://user-images.githubusercontent.com/96620548/199784526-31a7d3a3-19ff-4511-b634-f094d4a64364.png)
----------------------------------------------------------------------------------------------------
-### 🎈 Hazard-Grabber is a popular Stealer with many features.
+
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+
+<div align="center">
+
+### 🎈 **Hazard-Grabber is a popular Stealer with many features**
+
+</div>
+
 - Manipulating code and more 
 > (If you don't like a feature, you can easily turn it off and change the code to whatever you want.)
 
@@ -86,7 +106,7 @@ I'm learning coding at the moment to create my own projects as I mentioned befor
 
 - Discord Injection 
 > (Auto-Update. If the infected User changes his password, email or phone it will be displayed through the webhook to you.)
----------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
 ### 📝 **If you have any other improvement ideas or questions, just ask me on Discord or join our server!**
 
 
@@ -94,5 +114,5 @@ I'm learning coding at the moment to create my own projects as I mentioned befor
 
 
 - [Our Discord here!](https://discord.gg/s3RVzKjteg)                                                                                                                                                                      
----------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
 ⏳ *Thanks to everyone who took the time to read through this slightly longer tutorial! ↑↑*
