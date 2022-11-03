@@ -16,9 +16,9 @@
 
 ### THIS PROJECT WAS CREATED FOR GOOD TESTING PURPOSES!!! IT IS NONE OF MY BUSINESS WHAT YOU DO WITH IT, I CANNOT BE LIABLE AND BY USING THIS PORGRAM YOU AGREE TO THIS!! 
 
-> <div align="center"> NOT MY WORK, IT'S FROM SOMEONE ELSE, I JUST REPOST IT 
+<div align="center"> > NOT MY WORK, IT'S FROM SOMEONE ELSE, I JUST REPOST IT <
 
-> <div align="center"> ⚠ Credits to Rdimo ⚠ 
+<div align="center"> > ⚠ Credits to Rdimo ⚠ <
 
 ![hazard-grabber](https://user-images.githubusercontent.com/96620548/199788080-2eaf09e2-de07-423e-86b9-7980c7165c01.png)
 ---------------------------------------------------------------------------------------------------
