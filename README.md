@@ -52,7 +52,7 @@ I'm learning coding at the moment to create my own projects as I mentioned befor
 
 ---------------------------------------------------------------------------------------------------
 📷 Here is a screenshots of the grabber!
-![hazard-grabber](https://user-images.githubusercontent.com/96620548/199779231-1f9417b8-5452-4b89-9698-82b3c9092974.png)
+
 
 ---------------------------------------------------------------------------------------------------
 ### 🎈 Hazard-Grabber is a popular Stealer with many features.
