@@ -1,10 +1,24 @@
-### ☣ Hazard-Token-Grabber-v2 ☣
+### <div align="center"> ☣ Hazard-Token-Grabber-v2 ☣
+
+<div align="center">
+    <img src="https://img.shields.io/github/languages/top/zappelig/Hazard-Token-Grabber-v2?color=%23000000">
+    <img src="https://img.shields.io/github/stars/zappelig/Hazard-Token-Grabber-v2?color=%23000000&logoColor=%23000000">
+    <br>
+    <img src="https://img.shields.io/github/commit-activity/w/zappelig/Hazard-Token-Grabber-v2?color=%23000000"> 
+    <img src="https://img.shields.io/github/last-commit/zappelig/Hazard-Token-Grabber-v2?color=%23000000&logoColor=%23000000">
+    <br>
+    <img src="https://img.shields.io/github/issues/zappelig/Hazard-Token-Grabber-v2?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues-closed/zappelig/Hazard-Token-Grabber-v2?color=%23000000&logoColor=%23000000">
+</div>
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+
+
 
 ### THIS PROJECT WAS CREATED FOR GOOD TESTING PURPOSES!!! IT IS NONE OF MY BUSINESS WHAT YOU DO WITH IT, I CANNOT BE LIABLE AND BY USING THIS PORGRAM YOU AGREE TO THIS!! 
 
-> NOT MY WORK, IT'S FROM SOMEONE ELSE, I JUST REPOST IT 
+> <div align="center"> NOT MY WORK, IT'S FROM SOMEONE ELSE, I JUST REPOST IT 
 
-> ⚠ _**Credits to Rdimo!!!**_ ⚠ 
+> <div align="center"> ⚠ Credits to Rdimo ⚠ 
 
 ![hazard-grabber](https://user-images.githubusercontent.com/96620548/199788080-2eaf09e2-de07-423e-86b9-7980c7165c01.png)
 ---------------------------------------------------------------------------------------------------
