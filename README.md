@@ -5,6 +5,7 @@
 > NOT MY WORK, IT'S FROM SOMEONE ELSE, I JUST REPOST IT 
 
 > ⚠ _**Credits to Rdimo!!!**_ ⚠ 
+
 ![hazard-grabber](https://user-images.githubusercontent.com/96620548/199788080-2eaf09e2-de07-423e-86b9-7980c7165c01.png)
 ---------------------------------------------------------------------------------------------------
 Hello! I'm pretty new on Github! Some days ago I found my old Hazard-Grabber directory and a repost with some changes from someone else. Enjoy this small repost with a hopefully easy tutorial.
