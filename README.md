@@ -54,7 +54,7 @@ I'm learning coding at the moment to create my own projects as I mentioned befor
 
 - _Step 2 help > I would recommend you Visual Studio Code._ [You can download it here!](https://code.visualstudio.com/)
 
-- [x] Step 3: Open a command prompt in the directory and run the following command: "pip install -r requirements.txt".
+- [x] Step 3: Open a command prompt in the directory and run the following command: "python -m pip install -r requirements.txt".
 
 
 - _Step 3 help > If you don't know how to open a command prompt in the directory,_ [here is a simple tutorial!](https://www.lifewire.com/open-command-prompt-in-a-folder-5185505)
