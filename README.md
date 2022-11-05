@@ -59,7 +59,7 @@ I'm learning coding at the moment to create my own projects as I mentioned befor
 
 - _Step 3 help > If you don't know how to open a command prompt in the directory,_ [here is a simple tutorial!](https://www.lifewire.com/open-command-prompt-in-a-folder-5185505)
 
-- [x] Step 4: Just put your webhook in line 29 where the code says "WEBHOOK_HERE". Simply replace the webhook here with your webhook. 
+- [x] Step 4: Just put your webhook in line 29 where the code says "YOUR_WEBHOOK_HERE". Simply replace the webhook here with your webhook. 
 
 
 - _Step 4 help > You need help with creating a webhook?_ [This will help you!](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
