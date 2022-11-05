@@ -79,7 +79,7 @@ I'm learning coding at the moment to create my own projects as I mentioned befor
 
 </div>
 
-![hazard-grabber](https://user-images.githubusercontent.com/96620548/199784526-31a7d3a3-19ff-4511-b634-f094d4a64364.png)
+![hazard-v2](https://user-images.githubusercontent.com/96620548/200128638-acb433e6-551e-4f7a-861c-09cfd570fa7b.png)
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
