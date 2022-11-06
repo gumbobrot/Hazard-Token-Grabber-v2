@@ -49,7 +49,7 @@ I'm learning coding at the moment to create my own projects as I mentioned befor
 
 - _Step 1 help > You don't know how you can add Python to PATH? No problem._ [This may help you!](https://medium.com/@omoshalewa/why-you-should-add-python-to-path-and-how-58693c17c443)
 
-- [x] Step 2: Download the source code. (You can do this by simply clicking on the green/blue "Code" button and then the "Downlaod ZIP" button.) After that you should extract the file you just downloaded. Now you have to open a file called "hazard-v3.py" with any code editor. 
+- [x] Step 2: Download the source code. (You can do this by simply clicking on the green/blue "Code" button and then the "Downlaod ZIP" button.) After that you should extract the file you just downloaded. Now you have to open a file called "hazard.py" with any code editor. 
 
 
 - _Step 2 help > I would recommend you Visual Studio Code._ [You can download it here!](https://code.visualstudio.com/)
