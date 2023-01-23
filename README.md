@@ -56,7 +56,7 @@ Extract to ZIP to your Desktop and enter the Hazard-Token-Grabber-v2 folder. In 
 
 </div>
 
-![hazard](https://user-images.githubusercontent.com/96620548/214033031-131a0b0c-448e-4483-b0f7-3ecc2484dbe1.png)
+![hazard-v2](https://user-images.githubusercontent.com/96620548/200128638-acb433e6-551e-4f7a-861c-09cfd570fa7b.png)
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
