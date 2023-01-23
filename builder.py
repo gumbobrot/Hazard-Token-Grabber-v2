@@ -57,5 +57,7 @@ print("done...")
 print("stub was built successfully lel")
 print("check the dist directory for the exe")
 print("would love to hear some feedback :) gum#1085")
-
-sleep()
+time.sleep(1)
+print("exiting in 10 seconds")
+time.sleep(10)
+sys.exit
