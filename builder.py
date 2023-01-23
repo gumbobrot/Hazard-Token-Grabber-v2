@@ -52,7 +52,10 @@ else:
     
 os.remove(f"{name}.spec")
 os.remove(fr"build/{name}")
+
 print("done...")
 print("stub was built successfully lel")
 print("check the dist directory for the exe")
 print("would love to hear some feedback :) gum#1085")
+
+sleep()
