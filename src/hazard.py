@@ -29,7 +29,7 @@ except:
     input("Found missing modules. Press enter to install them.")
     print("Installing missing modules in 3 seconds. CTRL + C to cancel.")
     time.sleep(3.0)
-    os.system("pip install httpx && pip install pyotp && pip install psutil && pip install pypiwin32 && pip install aes && pip install pycryptodome && pip install pyinstaller>=5.0 && pip install PIL-tools && pip install colorama && pip install win10toast")
+    os.system("pip install requests && pip install httpx && pip install pyotp && pip install psutil && pip install pypiwin32 && pip install aes && pip install pycryptodome && pip install pyinstaller>=5.0 && pip install PIL-tools && pip install colorama && pip install win10toast")
     os.system("cls")
     print("Installed the missing modules successfully. Please restart the client. Closing this terminal in 10 seconds.")
     time.sleep(10)
