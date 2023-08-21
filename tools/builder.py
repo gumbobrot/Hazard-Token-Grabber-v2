@@ -102,9 +102,9 @@ def main():
 
     print(f"[*] Done. You can check the following directory, but the folder should have already been opened: [ {os.path.dirname(os.path.realpath(__file__))} ] for '{file_name}.exe'")
     time.sleep(0.5)
-    print("[*] I would appreciate a star on GitHub and some feedback really much! https://github.com/S1LKT0UCH")
+    print("[*] I would appreciate a star on GitHub and some feedback really much! https://github.com/gumbobr0t")
     time.sleep(0.5)
-    print("[*] You may also like to contribute in our community. https://discord.gg/gqms5tajzr")
+    print("[*] You may also like to contribute in our community. https://discord.gg/59EbJfEFpk")
     time.sleep(0.5)
     print("[!] Closing in 10 seconds...")
     time.sleep(10)
